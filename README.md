@@ -1,1 +1,10 @@
-# <span style="color: pink;">Hello <3 </span>
+# 🌸 Hola! 🌸
+# Un poquito sobre mi -w-
+
+* Mi nombre es Camila, soy Ingeniera Civil Electrónica. 
+
+* En estos momentos me encuentro estudiando programación enfocada en el área del Full-Stack.
+
+* Me motiva mucho el diseño de paginas web :3
+
+![gatito](https://www.shutterstock.com/search/cute-png)
