@@ -7,10 +7,12 @@
 
 * Me motiva mucho el diseño de paginas web :3
 
-![stars](https://media.giphy.com/media/hNSFHUpdrL5uNDHsTv/giphy.gif)
+![stars](https://media.giphy.com/media/1QeEOLt6j3aWy8XKSs/giphy.gif)
 
 ## ¿ Que encontraras en mi perfil ?
 
 Bueno principalmente este perfil esta creado con la intención de **aprender y dejar registro** del conocimiento que adquiera a través de los repositorios que iré subiendo :3
 
 ![naruhodo](https://media.giphy.com/media/11vZDQEa1iwfpS/giphy.gif)
+
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fvd3k1OGJ4dXBteDRrY2R3NTF1ZWFucjkwM3kycms1Zmd6d3lwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1QeEOLt6j3aWy8XKSs/giphy.gif
