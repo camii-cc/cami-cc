@@ -7,4 +7,4 @@
 
 * Me motiva mucho el diseño de paginas web :3
 
-![gatito](![gatito](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg))
+![gatito](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg)
