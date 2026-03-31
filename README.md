@@ -1,5 +1,5 @@
 # 🌸 Hola! 🌸
-# Un poquito sobre mi -w-
+## Un poquito sobre mi -w-
 
 * Mi nombre es Camila, soy Ingeniera Civil Electrónica. 
 
@@ -7,4 +7,10 @@
 
 * Me motiva mucho el diseño de paginas web :3
 
-![mewth](https://media.giphy.com/media/MziKDo6gO7x8A/giphy.gif)
+![stars](https://media.giphy.com/media/hNSFHUpdrL5uNDHsTv/giphy.gif)
+
+## ¿ Que encontraras en mi perfil ?
+
+Bueno principalmente este perfil esta creado con la intención de **aprender y dejar registro** del conocimiento que adquiera a través de los repositorios que iré subiendo :3
+
+![naruhodo](https://media.giphy.com/media/11vZDQEa1iwfpS/giphy.gif)
