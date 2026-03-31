@@ -7,4 +7,4 @@
 
 * Me motiva mucho el diseño de paginas web :3
 
-![gatito]([https://www.shutterstock.com/search/cute-png](https://www.rawpixel.com/image/15062779/png-surprised-gray-cat-expression?utm_medium=organic&utm_source=Pinterest))
+![gatito](![gatito](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg))
