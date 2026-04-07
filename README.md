@@ -1,5 +1,5 @@
 # 🌸 Hola! 🌸
-## Un poquito sobre mi -w-
+## 🌸 Un poquito sobre mi -w- 🌸
 
 * Mi nombre es Camila, soy Ingeniera Civil Electrónica. 
 
